@@ -1,3 +1,8 @@
 document.addEventListener("DOMContentLoaded", function(){
-   var normaliseDate = "JJ/MM/AAAA";
+
+    var date = "JJ/MM/AAAA";
+
+   function normaliseDate(){
+    date = s
+   }
 })
